@@ -81,60 +81,99 @@
 | :--- | :---: | :---: | :--- | :---: |
 | **🥚 [Project EggMan](https://github.com/Anush-Kashyap/EggMan)** | `AI Companion` | ⭐⭐⭐⭐⭐ | An emotional desktop AI companion with memory, screen understanding, and emergent personality. | 🏆 **Live & Evolving** |
 | **🌐 [ColAsi](https://github.com/Anush-Kashyap/ColAsi)** | `Web Application` | ⭐⭐⭐⭐ | High-impact interactive JavaScript platform with clean modular architecture. | ✅ **Released** |
+| **🔮 Next Frontier** | `Research / Dev` | ⭐⭐⭐⭐⭐ | Building next-gen autonomous agent teams and spatial interfaces. | ⚔️ **In Development** |
+
 ---
 
-## 🕹️ Mini-Game: The VOID Dungeon
-
-> ⚠️ **ALERT**: A wild `MemoryLeak-Dragon` has invaded the server room! Click an action to take your turn:
-
-<details>
-<summary><b>⚔️ [ ACTION 1 ] Cast Python Garbage Collector</b></summary>
-
-```python
->>> import gc
->>> gc.collect()
-[EFFECT] CRITICAL HIT! 💥 Freed 1,420 dangling pointers!
-[STATUS] Dragon's HP reduced by 40%. Dragon is temporarily stunned!
-```
-</details>
-
-<details>
-<summary><b>👁️ [ ACTION 2 ] Activate EggMan's Screen Vision</b></summary>
-
-```
-[VISION RECEPTORS ENGAGED] 🥚 EggMan processes dragon's weak points in 4K...
-[EFFECT] Target vulnerability identified! Next attack deals 3x damage!
-```
-</details>
-
-<details>
-<summary><b>☕ [ ACTION 3 ] Drink Double-Shot Espresso Potion</b></summary>
-
-```
-[CONSUMED] ☕ Black Espresso Potion swallowed!
-[BUFF] HP & MP restored to 100%! All syntax errors resolved instantly!
-```
-</details>
+## ⚔️ Retro Battle Arena: Turn-Based Boss Fight
 
 <div align="center">
-  <br />
-  <a href="https://anush-kashyap.github.io/Anush-Kashyap/">
-    <img src="https://img.shields.io/badge/%F0%9F%95%B9%EF%B8%8F%20PLAY_RETRO_ARCADE_GAME-ONLINE-39FF14?style=for-the-badge&logo=retroarch&logoColor=white" alt="Play Live Arcade" />
-  </a>
-  <br />
-  <sub>👾 <i>Click above to launch the playable 8-bit VOIDCADE retro game right in your browser!</i></sub>
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  👾 WILD BOSS: RECURSION_OVERFLOW_DEMON (LVL 99)                 │
+│  BOSS HP: [████████████░░░░░░░░] 60%                             │
+│                                                                  │
+│  🧑‍💻 ANUSH (LVL 24)                🥚 COMPANION: EGGMAN (AI)      │
+│  HP: [████████████████████] 100%   PERCEPTION: 4K VISION ACTIVE  │
+│  MP: [████████████████░░░░]  85%   STATUS: READY TO ATTACK       │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <b>CHOOSE YOUR MOVE ADVENTURER:</b>
+</p>
+
 </div>
 
+<details>
+<summary><b>🗡️ [ FIGHT ] Cast Base Case (Interrupt Infinite Loop)</b></summary>
+
+```python
+def slay_demon(depth):
+    if depth >= 100:
+        return "CRITICAL HIT! 💥 Base condition triggered!"
+    return slay_demon(depth + 1)
+
+# [RESULT] Base case reached! 
+# The Recursion Demon is locked in stack frame 0! Dealt 450 DMG!
+```
+</details>
+
+<details>
+<summary><b>🥚 [ COMPANION ] Unleash EggMan's Neural Vision</b></summary>
+
+```
+[SUMMONING EGGMAN] 🥚✨
+EggMan scans the demon's pixels in real-time...
+"Anush! His memory buffer is unbuffered! Strike the index pointer!"
+[BUFF] Your accuracy is raised to 100%! Next strike is GUARANTEED CRITICAL!
+```
+</details>
+
+<details>
+<summary><b>🎒 [ INVENTORY ] Throw Caffeine Potion Grenade</b></summary>
+
+```
+[POTION SPLASH] ☕💥
+Hot concentrated Cold Brew splashes across the server rack!
+Your typing speed surges by 300 WPM!
+Demon suffers burn damage over 3 clock cycles!
+```
+</details>
+
+<details>
+<summary><b>🏃 [ TACTICAL RETREAT ] Send SIGINT (Ctrl + C)</b></summary>
+
+```bash
+^C
+KeyboardInterrupt: Graceful shutdown initiated.
+"He who code-reviews and runs away, lives to debug another day!"
+```
+</details>
+
 ---
 
-## 🐍 8-Bit Contribution Snake
+## 🕹️ Interactive Tic-Tac-Toe (VOID Edition)
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anush-Kashyap/Anush-Kashyap/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anush-Kashyap/Anush-Kashyap/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anush-Kashyap/Anush-Kashyap/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+
+| | Col 1 | Col 2 | Col 3 |
+| :---: | :---: | :---: | :---: |
+| **Row 1** | 🟢 `X` | 🔴 `O` | 🟢 `X` |
+| **Row 2** | 🔴 `O` | 🟢 `X` | [ ⚔️ Play Here ](https://github.com/Anush-Kashyap/Anush-Kashyap/issues) |
+| **Row 3** | [ ⚔️ Play Here ](https://github.com/Anush-Kashyap/Anush-Kashyap/issues) | 🔴 `O` | 🟢 `X` |
+
+*Current Turn: **Player 1 (X)** • Board Status: **Winning Diagonal Secured!*** 🏆
+
+<br />
+
+<a href="https://anush-kashyap.github.io/Anush-Kashyap/">
+  <img src="https://img.shields.io/badge/%F0%9F%95%B9%EF%B8%8F%20PLAY_LIVE_RETRO_ARCADE-IN_BROWSER-39FF14?style=for-the-badge&logo=retroarch&logoColor=white" alt="Play Live Arcade" />
+</a>
+<br />
+<sub>🕹️ <i>No commit history needed — Click above to play the live 8-bit VOIDCADE retro arcade in your browser!</i></sub>
+
 </div>
 
 ---
