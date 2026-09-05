@@ -58,18 +58,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
 </p>
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ 🔮 Python Staff of Cognition     : +99 Intelligence & Multi-Modal Vision    │
-│ ⚡ JavaScript Blade of Agility    : +92 Rapid Prototyping & Front-End Speed  │
+│ ⚡ JavaScript / TS Blade         : +92 Rapid Prototyping & Front-End Speed  │
 │ 👁️ Screen-Understanding Amulet   : Powers Real-Time Desktop Perception      │
-│ 🛡️ Git & Linux Shield of Armor   : +100 Version Defense & Crash Resilience │
+│ 🛡️ Git Aegis Shield of Armor     : +100 Version Defense & Crash Resilience  │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
