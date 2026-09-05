@@ -22,14 +22,12 @@
 </p>
 
 ```
-   ▄████████    ▄████████    ▄████████    ▄████████  
-  ███    ███   ███    ███   ███    ███   ███    ███  
-  ███    ███   ███    █▀    ███    ███   ███    █▀   
-  ███    ███  ▄███▄▄▄       ███    ███  ▄███▄▄▄      
-▀███████████ ▀▀███▀▀▀     ▀███████████ ▀▀███▀▀▀      
-  ███    ███   ███    █▄    ███    ███   ███    █▄   
-  ███    ███   ███    ███   ███    ███   ███    ███  
-  ███    █▀    ██████████   ███    █▀    ██████████  
+   ██████╗ ██╗  ██╗  █████╗  ██████╗ 
+  ██╔════╝ ██║  ██║ ██╔══██╗ ██╔══██╗
+  ██║      ███████║ ███████║ ██║  ██║
+  ██║      ██╔══██║ ██╔══██║ ██║  ██║
+  ╚██████╗ ██║  ██║ ██║  ██║ ██████╔╝
+   ╚═════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝ 
 ```
 
 ---
@@ -91,13 +89,15 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Anush-Kashyap&show_icons=true&theme=cyberpunk&hide_border=false" width="49%" alt="Anush's High Scores" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anush-Kashyap&theme=cyberpunk&hide_border=false" width="49%" alt="Anush's Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Anush-Kashyap&show_icons=true&bg_color=0d1117&border_color=39ff14&title_color=39ff14&text_color=ffffff&icon_color=39ff14" width="49%" alt="Anush's High Scores" />
+  <img src="https://streak-stats.demolab.com/?user=Anush-Kashyap&theme=dark&background=0d1117&border=39FF14&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14&currStreakLabel=39FF14&dates=888888" width="49%" alt="Anush's Streak" />
 
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anush-Kashyap&layout=compact&theme=cyberpunk&hide_border=false" width="60%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anush-Kashyap&layout=compact&bg_color=0d1117&border_color=39ff14&title_color=39ff14&text_color=ffffff" width="55%" alt="Top Languages" />
 </div>
 
 ---
