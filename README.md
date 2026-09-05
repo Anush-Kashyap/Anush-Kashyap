@@ -4,10 +4,8 @@
 
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:000000&height=180&section=header&text=%F0%9F%91%BE%20PLAYER%201%20READY%20%F0%9F%91%BE&fontSize=42&fontColor=39FF14&animation=twinkling)
-
-# 👾 LEVEL 24 AI ARCHITECT & FULL-STACK MAGE
-### *Crafting Autonomous Companions • Breaking Code • Building Worlds*
+# Helloo, I am Anush 👋
+### ECE @ NIT Calicut
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=Greetings%2C+adventurer!;Creator+of+EggMan%3A+Desktop+AI+Companion;Specializing+in+Agentic+Systems+%26+Vision;Press+%5B+START+%5D+to+explore+my+universe" alt="8-Bit Typing Text" />
@@ -77,11 +75,11 @@
 
 ## 📜 Active Quests & Hall of Fame
 
-| Quest Name | Type | Difficulty | Objective & Lore | Status |
-| :--- | :---: | :---: | :--- | :---: |
-| **🥚 [Project EggMan](https://github.com/Anush-Kashyap/EggMan)** | `AI Companion` | ⭐⭐⭐⭐⭐ | An emotional desktop AI companion with memory, screen understanding, and emergent personality. | 🏆 **Live & Evolving** |
-| **🌐 [ColAsi](https://github.com/Anush-Kashyap/ColAsi)** | `Web Application` | ⭐⭐⭐⭐ | High-impact interactive JavaScript platform with clean modular architecture. | ✅ **Released** |
-| **🔮 Next Frontier** | `Research / Dev` | ⭐⭐⭐⭐⭐ | Building next-gen autonomous agent teams and spatial interfaces. | ⚔️ **In Development** |
+| Quest Name | Type | Objective & Lore | Status |
+| :--- | :---: | :--- | :---: |
+| **🥚 [Project EggMan](https://github.com/Anush-Kashyap/EggMan)** | `AI Companion` | An emotional desktop AI companion with memory, screen understanding, and emergent personality. | 🏆 **Live & Evolving** |
+| **🌐 [ColAsi](https://github.com/Anush-Kashyap/ColAsi)** | `Web Application` | High-impact interactive JavaScript platform with clean modular architecture. | ✅ **Released** |
+| **🔮 Next Frontier** | `Research / Dev` | Building next-gen autonomous agent teams and spatial interfaces. | ⚔️ **In Development** |
 
 ---
 
