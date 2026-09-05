@@ -85,46 +85,17 @@
 
 ---
 
-## 🕹️ Mini-Game: The VOID Dungeon (Python Edition)
-
-> ⚠️ **ALERT**: A wild `MemoryLeak-Dragon` has invaded the server room! Click an action to take your turn:
-
-<details>
-<summary><b>⚔️ [ ACTION 1 ] Cast Python Garbage Collector</b></summary>
-
-```python
->>> import gc
->>> gc.collect()
-[EFFECT] CRITICAL HIT! 💥 Freed 1,420 dangling pointers!
-[STATUS] Dragon's HP reduced by 40%. Dragon is temporarily stunned!
-```
-</details>
-
-<details>
-<summary><b>👁️ [ ACTION 2 ] Activate EggMan's Screen Vision</b></summary>
-
-```
-[VISION RECEPTORS ENGAGED] 🥚 EggMan processes dragon's weak points in 4K...
-[EFFECT] Target vulnerability identified! Next attack deals 3x damage!
-```
-</details>
-
-<details>
-<summary><b>☕ [ ACTION 3 ] Drink Double-Shot Espresso Potion</b></summary>
-
-```
-[CONSUMED] ☕ Black Espresso Potion swallowed!
-[BUFF] HP & MP restored to 100%! All syntax errors resolved instantly!
-```
-</details>
+## 🐍 The 8-Bit Python: Eating Up My Commits!
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anush-Kashyap/Anush-Kashyap/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anush-Kashyap/Anush-Kashyap/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anush-Kashyap/Anush-Kashyap/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+
   <br />
-  <a href="https://anush-kashyap.github.io/Anush-Kashyap/">
-    <img src="https://img.shields.io/badge/%F0%9F%95%B9%EF%B8%8F%20PLAY_RETRO_ARCADE-ONLINE-39FF14?style=for-the-badge&logo=retroarch&logoColor=black" alt="Play Live Arcade" />
-  </a>
-  <br />
-  <sub>👾 <i>No commit history needed — Click above to launch the playable 8-bit VOIDCADE retro game right in your browser!</i></sub>
+  <sub>👾 <i>Watch the 8-bit Python slither across the grid and devour every green commit pixel!</i></sub>
 </div>
 
 ---
